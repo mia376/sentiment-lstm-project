@@ -1,8 +1,8 @@
-streamlit
-pandas
-plotly
-matplotlib
-wordcloud
-numpy
-tensorflow
-scikit-learn
+streamlit==1.46.1
+pandas==2.2.3
+plotly==6.2.0
+matplotlib==3.10.3
+wordcloud==1.9.4
+numpy==1.26.4
+scikit-learn==1.6.1
+tensorflow==2.17.1
